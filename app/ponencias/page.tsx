@@ -21,7 +21,7 @@ export default function PonenciasPage() {
    */
 
   const imagenesConfig = {
-    "11-1" image "https://instagram.fbga1-3.fna.fbcdn.net/v/t51.2885-19/498545269_17973568274850781_4536710821647156713_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbga1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFvKRbDWL4XFVTtQfTwecc6IHbS61h5b69R3Fc2eyn0OUMsYqbUrbSg9wBlk3_TNZA&_nc_ohc=U6aMzSLSFC4Q7kNvwGH6mtv&_nc_gid=Dg_ePAhacAdKBJpE4zUFJQ&edm=ADDLYBMBAAAA&ccb=7-5&oh=00_AfU36o4aCqECMc0sKWTVPH3EQ_rH3u5l8drg6I3gzc_9pQ&oe=68A83B61&_nc_sid=56bdfd": [
+    "11-1": [
       // PONENCIA 1
       {
         id: 1,
@@ -1106,37 +1106,37 @@ export default function PonenciasPage() {
               Selecciona una categoría para ver las ponencias
             </p>
 
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-4xl mx-auto px-6">
-              {[
-                { id: "11-1", title: "11 - 1", description: "Primera categoría (32 ponencias)", count: 32 },
-                { id: "11-2", title: "11 - 2", description: "Segunda categoría (30 ponencias)", count: 30 },
-                { id: "11-3", title: "11 - 3", description: "Tercera categoría (33 ponencias)", count: 33 },
-                { id: "invitados", title: "INVITADOS", description: "Ponencias especiales (30 ponencias)", count: 30 },
-              ].map((option) => (
-                <div
-                  key={option.id}
-                  onClick={() => setSelectedOption(option.id)}
-                  className="bg-white/10 backdrop-blur-sm rounded-lg shadow-lg overflow-hidden cursor-pointer hover:bg-white/20 transition-all duration-300 transform hover:-translate-y-2 border border-white/20"
-                >
-                  <div className="relative aspect-square overflow-hidden">
-                    <img
-                      src={`/categoria-${option.id}.png`}
-                      alt={option.title}
-                      className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end">
-                      <div className="p-4 text-white">
-                        <h3 className="text-xl font-bold font-[family-name:var(--font-prompt)]">{option.title}</h3>
-                        <p className="text-sm opacity-90 font-[family-name:var(--font-mulish)]">{option.description}</p>
-                        <span className="inline-block bg-white/20 px-2 py-1 rounded-full text-xs mt-2">
-                          {option.count} ponencias
-                        </span>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-4xl mx-auto px-6">
+                {[
+                  { id: "11-1", title: "11 - 1", description: "Primera categoría (32 ponencias)", count: 32, image: "https://instagram.fbga1-3.fna.fbcdn.net/v/t51.2885-19/498545269_17973568274850781_4536710821647156713_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbga1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFFLY3ezkIWVzrNHdhKXGK-jKxGHqfpr4je4-m5ct2ohL9OBOdDgQI5W2JElz_nF6g&_nc_ohc=U6aMzSLSFC4Q7kNvwGH6mtv&_nc_gid=fZ7g0qJh75LyuDT-Z3CPjg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfUpK1EvRKgj-klKYF8yJ-qWFvCQr1Q_PiPSG4t99ms0yQ&oe=68A83B61&_nc_sid=7a9f4b" },
+                  { id: "11-2", title: "11 - 2", description: "Segunda categoría (30 ponencias)", count: 30, image: "/foto-categoria-11-2.png" },
+                  { id: "11-3", title: "11 - 3", description: "Tercera categoría (33 ponencias)", count: 33, image: "/foto-categoria-11-3.png" },
+                  { id: "invitados", title: "INVITADOS", description: "Ponencias especiales (30 ponencias)", count: 30, image: "/foto-categoria-invitados.png" },
+                ].map((option) => (
+                  <div
+                    key={option.id}
+                    onClick={() => setSelectedOption(option.id)}
+                    className="bg-white/10 backdrop-blur-sm rounded-lg shadow-lg overflow-hidden cursor-pointer hover:bg-white/20 transition-all duration-300 transform hover:-translate-y-2 border border-white/20"
+                  >
+                    <div className="relative aspect-square overflow-hidden">
+                      <img
+                        src={option.image}
+                        alt={option.title}
+                        className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
+                      />
+                      <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end">
+                        <div className="p-4 text-white">
+                          <h3 className="text-xl font-bold font-[family-name:var(--font-prompt)]">{option.title}</h3>
+                          <p className="text-sm opacity-90 font-[family-name:var(--font-mulish)]">{option.description}</p>
+                          <span className="inline-block bg-white/20 px-2 py-1 rounded-full text-xs mt-2">
+                            {option.count} ponencias
+                          </span>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
-              ))}
-            </div>
+                ))}
+              </div>
           </div>
         </section>
       ) : (
