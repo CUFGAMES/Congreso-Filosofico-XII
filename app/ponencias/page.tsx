@@ -1108,7 +1108,7 @@ export default function PonenciasPage() {
 
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-4xl mx-auto px-6">
                 {[
-                  { id: "11-1", title: "11 - 1", description: "Primera categoría (32 ponencias)", count: 32, image: "https://instagram.fbga1-3.fna.fbcdn.net/v/t51.2885-19/498545269_17973568274850781_4536710821647156713_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbga1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFFLY3ezkIWVzrNHdhKXGK-jKxGHqfpr4je4-m5ct2ohL9OBOdDgQI5W2JElz_nF6g&_nc_ohc=U6aMzSLSFC4Q7kNvwGH6mtv&_nc_gid=fZ7g0qJh75LyuDT-Z3CPjg&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfUpK1EvRKgj-klKYF8yJ-qWFvCQr1Q_PiPSG4t99ms0yQ&oe=68A83B61&_nc_sid=7a9f4b" },
+                  { id: "11-1", title: "11 - 1", description: "Primera categoría (32 ponencias)", count: 32, image: "/foto-categoria-11-1.png" },
                   { id: "11-2", title: "11 - 2", description: "Segunda categoría (30 ponencias)", count: 30, image: "/foto-categoria-11-2.png" },
                   { id: "11-3", title: "11 - 3", description: "Tercera categoría (33 ponencias)", count: 33, image: "/foto-categoria-11-3.png" },
                   { id: "invitados", title: "INVITADOS", description: "Ponencias especiales (30 ponencias)", count: 30, image: "/foto-categoria-invitados.png" },
