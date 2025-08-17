@@ -25,10 +25,10 @@ export default function PonenciasPage() {
       // PONENCIA 1
       {
         id: 1,
-        studentName: "Arturo Alexander Carreño Carreño",
+        studentName: "Anyelen Daniela Ortega Torres",
         title: "Título de la ponencia 1",
-        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/4086_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://drive.google.com/drive/folders/1-0BB55R1hbk_-gR79h7z-fSOJZPI1XEr", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/9394_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1QCJ4S2Nz49-kWhrmqq_iMYJgVVxO8vVl?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 2
       {
