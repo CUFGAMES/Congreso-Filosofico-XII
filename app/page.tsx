@@ -103,12 +103,15 @@ export default function HomePage() {
 
         {/* Hero Content */}
         <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto">
-          <h1 className="text-4xl md:text-6xl font-bold mb-6 font-[family-name:var(--font-poppins)] leading-tight drop-shadow-lg" id="titulo_principal">
-              XII CONGRESO FILOSOFÍA:
-              <br />
-              RAZONAMIENTO VS
-              <br />
-              INTELIGENCIA ARTIFICIAL
+          <h1
+            className="text-4xl md:text-6xl font-bold mb-6 font-[family-name:var(--font-poppins)] leading-tight drop-shadow-lg text-white"
+            id="titulo_principal"
+          >
+            XII CONGRESO FILOSOFÍA:
+            <br />
+            RAZONAMIENTO VS
+            <br />
+            INTELIGENCIA ARTIFICIAL
           </h1>
 
           <p className="text-lg md:text-xl mb-8 font-[family-name:var(--font-mulish)] font-light max-w-3xl mx-auto leading-relaxed drop-shadow-md">
@@ -273,12 +276,12 @@ export default function HomePage() {
               <h4 className="font-bold text-xl font-[family-name:var(--font-poppins)] text-gray-800 mb-2">
                 María Inés Castellanos
               </h4>
-              <p className="text-gray-600 font-[family-name:var(--font-mulish)] text-base">Estudiante de Filosofía</p>
+              <p className="text-gray-600 font-[family-name:var(--font-mulish)] text-base">Docente de Filosofía</p>
             </div>
             <div className="bg-white p-8 shadow-xl text-center rounded-xl border border-gray-100 hover:shadow-2xl transition-shadow duration-300">
               <img
                 src="/nulak-logo.png"
-                alt="NULAK"
+                alt="ODYSSEY"
                 className="w-36 h-36 mx-auto mb-6 object-cover rounded-full border-4 border-blue-100"
               />
               <h4 className="font-bold text-xl font-[family-name:var(--font-poppins)] text-gray-800 mb-2">ODYSSEY</h4>
@@ -287,7 +290,7 @@ export default function HomePage() {
             <div className="bg-white p-8 shadow-xl text-center rounded-xl border border-gray-100 hover:shadow-2xl transition-shadow duration-300">
               <img
                 src="/jose-celestino-mutis-academic.png"
-                alt="Dr. José Celestino Mutis"
+                alt="Colegio Jose Celestino Mutis"
                 className="w-36 h-36 mx-auto mb-6 object-cover rounded-full border-4 border-green-100"
               />
               <h4 className="font-bold text-xl font-[family-name:var(--font-poppins)] text-gray-800 mb-2">

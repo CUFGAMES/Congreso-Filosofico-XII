@@ -21,7 +21,7 @@ export default function PonenciasPage() {
    */
 
   const imagenesConfig = {
-    "11-1": [
+    "11-1" image "https://instagram.fbga1-3.fna.fbcdn.net/v/t51.2885-19/498545269_17973568274850781_4536710821647156713_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbga1-3.fna.fbcdn.net&_nc_cat=101&_nc_oc=Q6cZ2QFvKRbDWL4XFVTtQfTwecc6IHbS61h5b69R3Fc2eyn0OUMsYqbUrbSg9wBlk3_TNZA&_nc_ohc=U6aMzSLSFC4Q7kNvwGH6mtv&_nc_gid=Dg_ePAhacAdKBJpE4zUFJQ&edm=ADDLYBMBAAAA&ccb=7-5&oh=00_AfU36o4aCqECMc0sKWTVPH3EQ_rH3u5l8drg6I3gzc_9pQ&oe=68A83B61&_nc_sid=56bdfd": [
       // PONENCIA 1
       {
         id: 1,
