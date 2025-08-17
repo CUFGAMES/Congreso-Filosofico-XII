@@ -8,6 +8,10 @@ Version: 1.0
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700;900&family=Mulish:wght@300;400;700&family=Prompt:wght@300;400;500;600;700&display=swap");
 
 /* Variables CSS personalizadas */
+#titulo_principal{
+  color: aliceblue;
+}
+
 :root {
   --font-poppins: "Poppins", sans-serif;
   --font-mulish: "Mulish", sans-serif;
@@ -23,7 +27,6 @@ body {
   color: rgb(20, 20, 33);
 }
 
-h1,
 h2,
 h3,
 h4,

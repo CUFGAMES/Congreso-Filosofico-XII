@@ -102,7 +102,7 @@ export default function HomePage() {
 
         {/* Hero Content */}
         <div className="relative z-10 text-center text-white px-4 max-w-4xl mx-auto">
-          <h1 className="text-4xl md:text-6xl font-bold mb-6 font-[family-name:var(--font-poppins)] leading-tight drop-shadow-lg">
+          <h1 className="text-4xl md:text-6xl font-bold mb-6 font-[family-name:var(--font-poppins)] leading-tight drop-shadow-lg" id = "titulo_principal>
             XII CONGRESO FILOSOFÍA:
             <br />
             RAZONAMIENTO VS
@@ -280,8 +280,8 @@ export default function HomePage() {
                 alt="NULAK"
                 className="w-36 h-36 mx-auto mb-6 object-cover rounded-full border-4 border-blue-100"
               />
-              <h4 className="font-bold text-xl font-[family-name:var(--font-poppins)] text-gray-800 mb-2">NULAK</h4>
-              <p className="text-gray-600 font-[family-name:var(--font-mulish)] text-base">Institución Académica</p>
+              <h4 className="font-bold text-xl font-[family-name:var(--font-poppins)] text-gray-800 mb-2">ODDISEY</h4>
+              <p className="text-gray-600 font-[family-name:var(--font-mulish)] text-base">Promoción 2025</p>
             </div>
             <div className="bg-white p-8 shadow-xl text-center rounded-xl border border-gray-100 hover:shadow-2xl transition-shadow duration-300">
               <img
@@ -290,9 +290,9 @@ export default function HomePage() {
                 className="w-36 h-36 mx-auto mb-6 object-cover rounded-full border-4 border-green-100"
               />
               <h4 className="font-bold text-xl font-[family-name:var(--font-poppins)] text-gray-800 mb-2">
-                Dr. José Celestino Mutis
+                Colegio Jose Celestino Mutis
               </h4>
-              <p className="text-gray-600 font-[family-name:var(--font-mulish)] text-base">Director Académico</p>
+              <p className="text-gray-600 font-[family-name:var(--font-mulish)] text-base">Institución Educativa</p>
             </div>
           </div>
         </div>
