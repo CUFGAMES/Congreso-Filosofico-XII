@@ -6,7 +6,7 @@
     "dev": "next dev",
     "lint": "next lint",
     "start": "next start",
-    "build": "[my-framework] build --output public"
+    "build": "build --output public"
   },
   "dependencies": {
     "@hookform/resolvers": "^3.10.0",
