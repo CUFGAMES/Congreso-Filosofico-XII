@@ -33,250 +33,250 @@ export default function PonenciasPage() {
       // PONENCIA 2
       {
         id: 2,
-        studentName: "Estudiante 2",
+        studentName: "Carol Yuliana Alean Sandoval",
         title: "Título de la ponencia 2",
-        image: "/ponencia-11-1-02.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/3631_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1SjONZKCYzK1Wpef1yoEKbixK0Qw-DlI1?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 3
       {
         id: 3,
-        studentName: "Estudiante 3",
+        studentName: "Edwin Felipe Benavides Ruiz",
         title: "Título de la ponencia 3",
-        image: "/ponencia-11-1-03.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/silueta.jpg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1dCNnq3rYJR-jHL2txuBvKe1KolTfJ73q?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 4
       {
         id: 4,
-        studentName: "Estudiante 4",
+        studentName: "Esmedly Mirley Rojas Cure",
         title: "Título de la ponencia 4",
-        image: "/ponencia-11-1-04.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/6932_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1swzBOX2nMSZcgaUT-7wHx3vTsNGWmBfN?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 5
       {
         id: 5,
-        studentName: "Estudiante 5",
+        studentName: "Gabriel Andrés Barrios González",
         title: "Título de la ponencia 5",
-        image: "/ponencia-11-1-05.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/5700_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1sZFOeRDFJOlry5tvvwFHz46q0-Ky3UUe?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 6
       {
         id: 6,
-        studentName: "Estudiante 6",
+        studentName: "Gabriel Antonio Navarro Garnica",
         title: "Título de la ponencia 6",
-        image: "/ponencia-11-1-06.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/4021_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1i5nXEdjon9VdSvEqCFjopKaDrcS_AjmP?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 7
       {
         id: 7,
-        studentName: "Estudiante 7",
+        studentName: "Hectmary Isabel Hernández Velásquez",
         title: "Título de la ponencia 7",
-        image: "/ponencia-11-1-07.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/6773_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1LoexgB0q_Xc0FgxaZL4cxik56ZL9E_qo?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 8
       {
         id: 8,
-        studentName: "Estudiante 8",
+        studentName: "Isabel Verónica Gutiérrez Sánchez",
         title: "Título de la ponencia 8",
-        image: "/ponencia-11-1-08.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/8944_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1zuVL8UIh2Ona06d0oIESgxCO5BgaCfP1?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 9
       {
         id: 9,
-        studentName: "Estudiante 9",
+        studentName: "Jesus Daniel Barrera Ropero",
         title: "Título de la ponencia 9",
-        image: "/ponencia-11-1-09.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/7141_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1cjqSURBiXnw7QK_1rGnCSo_fqF-g3tFM?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 10
       {
         id: 10,
-        studentName: "Estudiante 10",
+        studentName: "Jose Camilo Duran Álvarez",
         title: "Título de la ponencia 10",
-        image: "/ponencia-11-1-10.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/9221_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1kyMYqWCqJ1wudn8xNe0Xg6ubQhZOUJeg?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 11
       {
         id: 11,
-        studentName: "Estudiante 11",
+        studentName: "Juan Andres Amorocho Gamboa",
         title: "Título de la ponencia 11",
-        image: "/ponencia-11-1-11.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/silueta.jpg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1MnA4vYTyuyGF8xw1nDS8gMavNSEey5IQ?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 12
       {
         id: 12,
-        studentName: "Estudiante 12",
+        studentName: "Juan David Berbesi Morales",
         title: "Título de la ponencia 12",
-        image: "/ponencia-11-1-12.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/2838_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1w9obI5bymVMjIpwN58GYsHbVJPDp_JCT?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 13
       {
         id: 13,
-        studentName: "Estudiante 13",
+        studentName: "Juan David Galindo Jimenez",
         title: "Título de la ponencia 13",
-        image: "/ponencia-11-1-13.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/6538_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/10yzOtpJbLShF6wBO6ktnFATDxnlEOVV1?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 14
       {
         id: 14,
-        studentName: "Estudiante 14",
+        studentName: "Juan Estiven Cadena Ramírez",
         title: "Título de la ponencia 14",
-        image: "/ponencia-11-1-14.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/4211_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1ni_ISaYbq7hF6v8N6nf9tFmgzuLFDeVx?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 15
       {
         id: 15,
-        studentName: "Estudiante 15",
+        studentName: "Juan Felipe Martínez Sánchez",
         title: "Título de la ponencia 15",
-        image: "/ponencia-11-1-15.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/6248_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1rf9N-l7ZuI_s18CvqZnuFS7PVVUVjrtR?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 16
       {
         id: 16,
-        studentName: "Estudiante 16",
+        studentName: "Juan Jose Baez Hernández",
         title: "Título de la ponencia 16",
-        image: "/ponencia-11-1-16.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/7140_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1r3Yvr7FXY9NQscUunin0Wv6KVrqc54w_?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 17
       {
         id: 17,
-        studentName: "Estudiante 17",
+        studentName: "Juan Pablo Hernández Torra",
         title: "Título de la ponencia 17",
-        image: "/ponencia-11-1-17.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/5692_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1vDmQfpcDWKWVVBhAysn0zF-vDYvEU1fO?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 18
       {
         id: 18,
-        studentName: "Estudiante 18",
+        studentName: "Jusselly Karolay Almeida Quintero",
         title: "Título de la ponencia 18",
-        image: "/ponencia-11-1-18.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/8188_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1Xs9qRTnmIvY17mPdVrH5ivqoMgVrjYbE?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 19
       {
         id: 19,
-        studentName: "Estudiante 19",
+        studentName: "Katerin Estefany Valencia Aristizábal",
         title: "Título de la ponencia 19",
-        image: "/ponencia-11-1-19.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/9275_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1anuNYbdnDPpTd-1hvV4OMG5beYiRDvIL?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 20
       {
         id: 20,
-        studentName: "Estudiante 20",
+        studentName: "Laura Nathalia Rincón León",
         title: "Título de la ponencia 20",
-        image: "/ponencia-11-1-20.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/4233_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1KX0kbBTREEdp9lpmAjQ8L0BWYk__Q8rv?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 21
       {
         id: 21,
-        studentName: "Estudiante 21",
+        studentName: "Laura Valentina Basto Villalba",
         title: "Título de la ponencia 21",
-        image: "/ponencia-11-1-21.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/7126_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1d5WJ-zEqvAlkC3KLha-AmmJ8s54hF6yi?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 22
       {
         id: 22,
-        studentName: "Estudiante 22",
+        studentName: "Linney Sofía Herrera Rodríguez",
         title: "Título de la ponencia 22",
-        image: "/ponencia-11-1-22.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/5459_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1yr7dTiquCrvtj3-KPerUTnBYKQRqzYd2?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 23
       {
         id: 23,
-        studentName: "Estudiante 23",
+        studentName: "María José Barbosa Estevez",
         title: "Título de la ponencia 23",
-        image: "/ponencia-11-1-23.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/4641_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1UZVEBSdORJOb8w8iNKkOfEkKMVrNVuSW?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 24
       {
         id: 24,
-        studentName: "Estudiante 24",
+        studentName: "Marian Camila García Soto",
         title: "Título de la ponencia 24",
         image: "/ponencia-11-1-24.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        redirectUrl: "https://drive.google.com/drive/folders/1cHDwLZgoCnaoSghh-n_VpQKyDjwx4pJv?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 25
       {
         id: 25,
-        studentName: "Estudiante 25",
+        studentName: "Nicole Daniela Vera Pico",
         title: "Título de la ponencia 25",
-        image: "/ponencia-11-1-25.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/9014_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1QBNV04E1DbaGx0aahIIkh6jZzjPISrq6?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 26
       {
         id: 26,
-        studentName: "Estudiante 26",
+        studentName: "Santiago Lopez Bastos",
         title: "Título de la ponencia 26",
-        image: "/ponencia-11-1-26.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/4118_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1jQY7xrB4RqBO1ZWF7KBgyVrq-ZSqtNPm?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 27
       {
         id: 27,
-        studentName: "Estudiante 27",
+        studentName: "Santiago Steven Díaz Rey",
         title: "Título de la ponencia 27",
-        image: "/ponencia-11-1-27.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/3757_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1bhthlDXD7CLIB05bH7LRASX-FxdiqmQE?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 28
       {
         id: 28,
-        studentName: "Estudiante 28",
+        studentName: "Sara Ortiz Gutiérrez",
         title: "Título de la ponencia 28",
-        image: "/ponencia-11-1-28.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/5404_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1veOB2GT58OIloWxzDkNJ0swdPKpj46pt?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 29
       {
         id: 29,
-        studentName: "Estudiante 29",
+        studentName: "Sara Sofía Acevedo Jiménez",
         title: "Título de la ponencia 29",
-        image: "/ponencia-11-1-29.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/7138_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1Gp4wwdXz8bePa0Ecy4U7lqnJB9n82PXl?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 30
       {
         id: 30,
-        studentName: "Estudiante 30",
+        studentName: "Saray Alexandra Jaimes Cáceres",
         title: "Título de la ponencia 30",
-        image: "/ponencia-11-1-30.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/7797_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1FUD90MhXDQGl2QDyWZMBSfmb1-OKMB6y?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 31
       {
         id: 31,
-        studentName: "Estudiante 31",
+        studentName: "Sari Nicol Mora Figueroa",
         title: "Título de la ponencia 31",
-        image: "/ponencia-11-1-31.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/4757_81_11.jpeg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/18vmV-zZmr1tjK2wH0-Juu58KQV1Xfa4D?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
       // PONENCIA 32
       {
         id: 32,
-        studentName: "Estudiante 32",
+        studentName: "Sherlyn Vanessa Guette Bastidas",
         title: "Título de la ponencia 32",
-        image: "/ponencia-11-1-32.png", // ← CAMBIA ESTA IMAGEN
-        redirectUrl: "https://google.com", // ← CAMBIA ESTE ENLACE
+        image: "https://e.plataformaintegra.net/jcmutis/img/fotos/mat/silueta.jpg", // ← CAMBIA ESTA IMAGEN
+        redirectUrl: "https://drive.google.com/drive/folders/1Y7G5E64tU656WqzJWiCF-wUz_p8acxx5?usp=drive_link", // ← CAMBIA ESTE ENLACE
       },
     ],
 
