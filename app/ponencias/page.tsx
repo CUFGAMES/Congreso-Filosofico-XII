@@ -1109,8 +1109,8 @@ export default function PonenciasPage() {
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-4xl mx-auto px-6">
                 {[
                   { id: "11-1", title: "11 - 1", description: "Primera categoría (32 ponencias)", count: 32, image: "/foto-categoria-11-1.png" },
-                  { id: "11-2", title: "11 - 2", description: "Segunda categoría (30 ponencias)", count: 30, image: "/foto-categoria-11-2.png" },
-                  { id: "11-3", title: "11 - 3", description: "Tercera categoría (33 ponencias)", count: 33, image: "/foto-categoria-11-3.png" },
+                  { id: "11-2", title: "11 - 2", description: "Segunda categoría (30 ponencias)", count: 30, image: "https://instagram.fbga1-3.fna.fbcdn.net/v/t51.2885-19/497315180_17939274348007275_5865871130733505636_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbga1-3.fna.fbcdn.net&_nc_cat=103&_nc_oc=Q6cZ2QEfrHVne2zpR1MuuCdzEx9R__k0ad_pJ7XhKb__HHNtzUyY1ikO_Yq93DyVbewQIKg&_nc_ohc=lezY5wZEmM0Q7kNvwEUi23B&_nc_gid=AfFNAaJStJV6TavRlAbl-g&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfYJLH0WVlzBSQ7Gdddx32ptFi_YTTCXB_14k2ivZTiX_w&oe=68DE213A&_nc_sid=7a9f4b" },
+                  { id: "11-3", title: "11 - 3", description: "Tercera categoría (33 ponencias)", count: 33, image: "https://instagram.fbga1-3.fna.fbcdn.net/v/t51.2885-19/497849123_17901224580186072_417006050916457042_n.jpg?stp=dst-jpg_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=instagram.fbga1-3.fna.fbcdn.net&_nc_cat=100&_nc_oc=Q6cZ2QEDuPBKLNaS7efkp3Jv3aRUwO1MiyD6CbecwlszWB80WncF9FBOKJtkrHcGr5aWgyA&_nc_ohc=IwIzrbLC8NgQ7kNvwHE4dhQ&_nc_gid=YzNhQsJYeJP8ouc3hNL9tQ&edm=APoiHPcBAAAA&ccb=7-5&oh=00_AfZOBj5E-m9qX7eUDD8b7dG5KesEZ5u-FY7wD-hcMsQzjg&oe=68DE16B1&_nc_sid=22de04" },
                   { id: "invitados", title: "INVITADOS", description: "Ponencias especiales (30 ponencias)", count: 30, image: "/foto-categoria-invitados.png" },
                 ].map((option) => (
                   <div
