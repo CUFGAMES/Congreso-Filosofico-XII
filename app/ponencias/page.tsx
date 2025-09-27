@@ -1126,7 +1126,9 @@ export default function PonenciasPage() {
                       />
                       <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent flex items-end">
                         <div className="p-4 text-white">
-                          <h3 className="text-xl font-bold font-[family-name:var(--font-prompt)]">{option.title}</h3>
+                          <h3 className="text-xl font-bold font-[family-name:var(--font-prompt)] text-white drop-shadow-lg">
+                              {option.title}
+                          </h3>
                           <p className="text-sm opacity-90 font-[family-name:var(--font-mulish)]">{option.description}</p>
                           <span className="inline-block bg-white/20 px-2 py-1 rounded-full text-xs mt-2">
                             {option.count} ponencias
