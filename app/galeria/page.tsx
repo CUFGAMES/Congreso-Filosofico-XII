@@ -19,8 +19,8 @@ export default function GaleriaPage() {
     // IMAGEN 1
     {
       id: 1,
-      title: "Foto grupal del congreso",
-      image: "/placeholder.svg?height=400&width=600&text=Foto+Grupal+Congreso",
+      title: "Flyer oficial del congreso",
+      image: "https://imgur.com/a/IYm49Zb.jpg",
     },
     // IMAGEN 2
     {

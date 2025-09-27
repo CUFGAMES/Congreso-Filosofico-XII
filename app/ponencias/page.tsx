@@ -1101,8 +1101,8 @@ export default function PonenciasPage() {
 
           {/* Centered Selection Options */}
           <div className="relative z-10 text-center text-white">
-            <h1 className="text-4xl md:text-5xl font-bold mb-8 font-[family-name:var(--font-prompt)]">Ponencias</h1>
-            <p className="text-lg mb-12 font-[family-name:var(--font-mulish)]">
+            <h1 className="text-white text-4xl md:text-5xl font-bold mb-8 font-[family-name:var(--font-prompt)]">Ponencias</h1>
+            <p className="text-white text-lg mb-12 font-[family-name:var(--font-mulish)]">
               Selecciona una categoría para ver las ponencias
             </p>
 
