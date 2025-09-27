@@ -160,7 +160,7 @@ export default function GaleriaPage() {
         {/* Page Title */}
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="text-center text-white">
-            <h1 className="text-4xl md:text-5xl font-bold font-[family-name:var(--font-poppins)] mb-4">
+            <h1 className="text-white text-4xl md:text-5xl font-bold font-[family-name:var(--font-poppins)] mb-4">
               Galería del Congreso
             </h1>
             <p className="text-lg opacity-90">Momentos destacados del XII Congreso de Filosofía</p>
