@@ -213,6 +213,27 @@ export default function HomePage() {
             </div>
           </div>
 
+            <div className="flex flex-col lg:flex-row items-center gap-12 mb-20">
+              <div className="lg:w-1/2">
+                <img
+                  src="https://imgur.com/a/IYm49Zb.jpg"
+                  alt="Flyer del Congreso"
+                  className="w-full shadow-lg rounded-lg"
+                />
+              </div>
+              <div className="lg:w-1/2">
+                <h3 className="text-3xl font-bold mb-6 font-[family-name:var(--font-poppins)] text-gray-800">
+                  FLYER OFICIAL DEL CONGRESO
+                </h3>
+                <p className="text-gray-700 font-[family-name:var(--font-mulish)] leading-relaxed mb-4 text-lg">
+                  Aquí puedes ver el flyer oficial del XII Congreso de Filosofía, que reúne la información principal del evento y su identidad visual.
+                </p>
+                <p className="text-gray-600 font-[family-name:var(--font-mulish)] text-base">
+                  ¡Compártelo con tu comunidad y ayúdanos a difundir este importante encuentro académico!
+                </p>
+              </div>
+            </div>
+
           <div className="flex flex-col lg:flex-row items-center gap-12 mb-20">
             <div className="lg:w-1/2">
               <img
@@ -233,27 +254,6 @@ export default function HomePage() {
                 Nuestro equipo de estudiantes y docentes contribuyó activamente a los debates y discusiones académicas
                 del evento.
               </p>
-            </div>
-
-            <div className="flex flex-col lg:flex-row items-center gap-12 mb-20">
-              <div className="lg:w-1/2">
-                <img
-                  src="https://i.imgur.com/XXXXXXXX.jpg" // Reemplaza con el enlace directo a tu flyer
-                  alt="Flyer del Congreso"
-                  className="w-full shadow-lg rounded-lg"
-                />
-              </div>
-              <div className="lg:w-1/2">
-                <h3 className="text-3xl font-bold mb-6 font-[family-name:var(--font-poppins)] text-gray-800">
-                  FLYER OFICIAL DEL CONGRESO
-                </h3>
-                <p className="text-gray-700 font-[family-name:var(--font-mulish)] leading-relaxed mb-4 text-lg">
-                  Aquí puedes ver el flyer oficial del XII Congreso de Filosofía, que reúne la información principal del evento y su identidad visual.
-                </p>
-                <p className="text-gray-600 font-[family-name:var(--font-mulish)] text-base">
-                  ¡Compártelo con tu comunidad y ayúdanos a difundir este importante encuentro académico!
-                </p>
-              </div>
             </div>
           </div>
         </div>
