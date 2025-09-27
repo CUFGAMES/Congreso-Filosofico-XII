@@ -216,7 +216,7 @@ export default function HomePage() {
             <div className="flex flex-col lg:flex-row items-center gap-12 mb-20">
               <div className="lg:w-1/2">
                 <img
-                  src="https://imgur.com/a/IYm49Zb.jpg"
+                  src="https://i.imgur.com/FKA178Z.jpeg"
                   alt="Flyer del Congreso"
                   className="w-full shadow-lg rounded-lg"
                 />
